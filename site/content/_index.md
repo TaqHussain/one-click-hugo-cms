@@ -1,6 +1,6 @@
 ---
 title: ADA
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Prospex ahah
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?

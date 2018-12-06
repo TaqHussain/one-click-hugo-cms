@@ -1,6 +1,6 @@
 ---
 title: ADA
-subtitle: Prospex ahah
+subtitle: Prospex coursework
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?

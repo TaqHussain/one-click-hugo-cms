@@ -1,6 +1,6 @@
 ---
-title: ADA
-subtitle: Prospex coursework
+title: Prospex
+subtitle: Realising you peoples potential
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why prospex

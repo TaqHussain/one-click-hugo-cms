@@ -1,7 +1,7 @@
 ---
 title: Prospex
 subtitle: Realising you peoples potential
-image: /img/home-jumbotron.jpg
+image: /img/homeback.png
 blurb:
   heading: Why prospex
   text: >-
